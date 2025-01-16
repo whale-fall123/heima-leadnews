@@ -1,4 +1,4 @@
-package com.heima.model.common.user.pojos;
+package com.heima.model.user.pojos;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;
